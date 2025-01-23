@@ -1,0 +1,209 @@
+{
+    "name": "shouldCheckAppBarLogoOnOurMissionIsDisplayed",
+    "start": 1737611319069,
+    "stop": 1737611327595,
+    "stage": "finished",
+    "description": "Тест проверяет отображение главной иконки на панели AppBar на странице \"Тематические цитаты\"",
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+        {
+            "name": "Выход из аккаунта:",
+            "start": 1737611326188,
+            "stop": 1737611326188,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Клик по иконке \"Авторизация\" панели AppBar",
+            "start": 1737611326496,
+            "stop": 1737611326496,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Клик по всплывающей кнопке \"Выйти\"",
+            "start": 1737611326496,
+            "stop": 1737611326496,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Авторизация валидного пользователя:",
+            "start": 1737611326762,
+            "stop": 1737611326762,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Ввод \"login2\" в поле ввода \"Логин\"",
+            "start": 1737611326762,
+            "stop": 1737611326762,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Ввод \"password2\" в поле ввода \"Пароль\"",
+            "start": 1737611326794,
+            "stop": 1737611326794,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Клик по кнопке \"Войти\"",
+            "start": 1737611326818,
+            "stop": 1737611326818,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Переход к странице тематических цитат:",
+            "start": 1737611327092,
+            "stop": 1737611327092,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Клик по иконке тематических цитат AppBar панели",
+            "start": 1737611327092,
+            "stop": 1737611327092,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        }
+    ],
+    "attachments": [
+    ],
+    "parameters": [
+    ],
+    "uuid": "e5d7fbfa-aed5-4724-bc25-e307dacfc0bf",
+    "historyId": "b93f779fe8287c1597d12b7716359480",
+    "fullName": "ru.iteco.fmhandroid.ui.tests.ui.OurMissionPageTest.shouldCheckAppBarLogoOnOurMissionIsDisplayed",
+    "labels": [
+        {
+            "name": "package",
+            "value": "ru.iteco.fmhandroid.ui.tests.ui"
+        },
+        {
+            "name": "testClass",
+            "value": "ru.iteco.fmhandroid.ui.tests.ui.OurMissionPageTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "shouldCheckAppBarLogoOnOurMissionIsDisplayed"
+        },
+        {
+            "name": "suite",
+            "value": "ru.iteco.fmhandroid.ui.tests.ui.OurMissionPageTest"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: io.qameta.allure.android.runners.AllureAndroidJUnitRunner(105)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        },
+        {
+            "name": "epic",
+            "value": "Тестирование UI"
+        },
+        {
+            "name": "feature",
+            "value": "Панель AppBar"
+        },
+        {
+            "name": "story",
+            "value": "Лого AppBar на странице \"Тематические цитаты\""
+        }
+    ]
+}

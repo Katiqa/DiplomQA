@@ -1,0 +1,81 @@
+{
+    "name": "shouldCheckEnterButtonIsDisplayed",
+    "start": 1737610909664,
+    "stop": 1737610917477,
+    "stage": "finished",
+    "description": "Тест проверяет отображение кнопки входа",
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+        {
+            "name": "Выход из аккаунта:",
+            "start": 1737610909774,
+            "stop": 1737610909774,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        }
+    ],
+    "attachments": [
+    ],
+    "parameters": [
+    ],
+    "uuid": "82858105-e6bb-4a64-a7b8-440d389b9bd1",
+    "historyId": "c539fb82e3cdebb3ca7123fbf9fc6bd6",
+    "fullName": "ru.iteco.fmhandroid.ui.tests.ui.AuthorizationPageTest.shouldCheckEnterButtonIsDisplayed",
+    "labels": [
+        {
+            "name": "package",
+            "value": "ru.iteco.fmhandroid.ui.tests.ui"
+        },
+        {
+            "name": "testClass",
+            "value": "ru.iteco.fmhandroid.ui.tests.ui.AuthorizationPageTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "shouldCheckEnterButtonIsDisplayed"
+        },
+        {
+            "name": "suite",
+            "value": "ru.iteco.fmhandroid.ui.tests.ui.AuthorizationPageTest"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: io.qameta.allure.android.runners.AllureAndroidJUnitRunner(105)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        },
+        {
+            "name": "epic",
+            "value": "Тестирование UI"
+        },
+        {
+            "name": "feature",
+            "value": "Страница Авторизации"
+        },
+        {
+            "name": "story",
+            "value": "Кнопка \"Войти\""
+        }
+    ]
+}

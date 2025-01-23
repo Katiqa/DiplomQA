@@ -1,0 +1,177 @@
+{
+    "name": "shouldCheckNewsContainerIsDisplayed",
+    "start": 1737610953702,
+    "stop": 1737610961948,
+    "stage": "finished",
+    "description": "Тест проверяет отображение блока новостей на главной странице",
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+        {
+            "name": "Выход из аккаунта:",
+            "start": 1737610960833,
+            "stop": 1737610960833,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Клик по иконке \"Авторизация\" панели AppBar",
+            "start": 1737610961149,
+            "stop": 1737610961149,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Клик по всплывающей кнопке \"Выйти\"",
+            "start": 1737610961149,
+            "stop": 1737610961149,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Авторизация валидного пользователя:",
+            "start": 1737610961445,
+            "stop": 1737610961445,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Ввод \"login2\" в поле ввода \"Логин\"",
+            "start": 1737610961446,
+            "stop": 1737610961446,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Ввод \"password2\" в поле ввода \"Пароль\"",
+            "start": 1737610961466,
+            "stop": 1737610961466,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Клик по кнопке \"Войти\"",
+            "start": 1737610961481,
+            "stop": 1737610961481,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        }
+    ],
+    "attachments": [
+    ],
+    "parameters": [
+    ],
+    "uuid": "c401479c-c603-49a9-be22-31fe8fcb6259",
+    "historyId": "7f357806e1b7f292cc9b081cd245239d",
+    "fullName": "ru.iteco.fmhandroid.ui.tests.ui.MainPageTest.shouldCheckNewsContainerIsDisplayed",
+    "labels": [
+        {
+            "name": "package",
+            "value": "ru.iteco.fmhandroid.ui.tests.ui"
+        },
+        {
+            "name": "testClass",
+            "value": "ru.iteco.fmhandroid.ui.tests.ui.MainPageTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "shouldCheckNewsContainerIsDisplayed"
+        },
+        {
+            "name": "suite",
+            "value": "ru.iteco.fmhandroid.ui.tests.ui.MainPageTest"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: io.qameta.allure.android.runners.AllureAndroidJUnitRunner(105)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        },
+        {
+            "name": "epic",
+            "value": "Тестирование UI"
+        },
+        {
+            "name": "feature",
+            "value": "\"Главная\" страница"
+        },
+        {
+            "name": "story",
+            "value": "Блок новостей на главной странице"
+        }
+    ]
+}

@@ -1,0 +1,225 @@
+{
+    "name": "shouldCheckFilterFormElementsIsDisplayed",
+    "start": 1737611210084,
+    "stop": 1737611219767,
+    "stage": "finished",
+    "description": "Тест проверяет отображение элементов формы фильтра",
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+        {
+            "name": "Выход из аккаунта:",
+            "start": 1737611217220,
+            "stop": 1737611217220,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Клик по иконке \"Авторизация\" панели AppBar",
+            "start": 1737611217543,
+            "stop": 1737611217543,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Клик по всплывающей кнопке \"Выйти\"",
+            "start": 1737611217543,
+            "stop": 1737611217543,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Авторизация валидного пользователя:",
+            "start": 1737611217831,
+            "stop": 1737611217831,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Ввод \"login2\" в поле ввода \"Логин\"",
+            "start": 1737611217831,
+            "stop": 1737611217831,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Ввод \"password2\" в поле ввода \"Пароль\"",
+            "start": 1737611217859,
+            "stop": 1737611217859,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Клик по кнопке \"Войти\"",
+            "start": 1737611217884,
+            "stop": 1737611217884,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Переход к странице \"Новости\":",
+            "start": 1737611218175,
+            "stop": 1737611218175,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Клик по кнопке \"Новости\" бургерного меню",
+            "start": 1737611218498,
+            "stop": 1737611218498,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Клик по кнопке фильтра",
+            "start": 1737611218773,
+            "stop": 1737611218774,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        }
+    ],
+    "attachments": [
+    ],
+    "parameters": [
+    ],
+    "uuid": "d016a471-ef02-4ae0-b56e-5b308f2468ab",
+    "historyId": "4e1f5b3a5b46098e21cb42f5d2c9aa81",
+    "fullName": "ru.iteco.fmhandroid.ui.tests.ui.NewsPageTest.shouldCheckFilterFormElementsIsDisplayed",
+    "labels": [
+        {
+            "name": "package",
+            "value": "ru.iteco.fmhandroid.ui.tests.ui"
+        },
+        {
+            "name": "testClass",
+            "value": "ru.iteco.fmhandroid.ui.tests.ui.NewsPageTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "shouldCheckFilterFormElementsIsDisplayed"
+        },
+        {
+            "name": "suite",
+            "value": "ru.iteco.fmhandroid.ui.tests.ui.NewsPageTest"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: io.qameta.allure.android.runners.AllureAndroidJUnitRunner(105)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        },
+        {
+            "name": "epic",
+            "value": "Тестирование UI"
+        },
+        {
+            "name": "feature",
+            "value": "Страница \"Новости\""
+        },
+        {
+            "name": "story",
+            "value": "Форма фильтра новостей"
+        }
+    ]
+}

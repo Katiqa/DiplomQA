@@ -1,0 +1,225 @@
+{
+    "name": "shouldCheckFirstQuoteElementsIsDisplayed",
+    "start": 1737611309682,
+    "stop": 1737611319054,
+    "stage": "finished",
+    "description": "Тест проверяет отображение элементов первой в списке цитаты",
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+        {
+            "name": "Выход из аккаунта:",
+            "start": 1737611316848,
+            "stop": 1737611316848,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Клик по иконке \"Авторизация\" панели AppBar",
+            "start": 1737611317162,
+            "stop": 1737611317162,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Клик по всплывающей кнопке \"Выйти\"",
+            "start": 1737611317162,
+            "stop": 1737611317162,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Авторизация валидного пользователя:",
+            "start": 1737611317454,
+            "stop": 1737611317454,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Ввод \"login2\" в поле ввода \"Логин\"",
+            "start": 1737611317454,
+            "stop": 1737611317455,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Ввод \"password2\" в поле ввода \"Пароль\"",
+            "start": 1737611317474,
+            "stop": 1737611317474,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Клик по кнопке \"Войти\"",
+            "start": 1737611317502,
+            "stop": 1737611317502,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Переход к странице тематических цитат:",
+            "start": 1737611317808,
+            "stop": 1737611317808,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Клик по иконке тематических цитат AppBar панели",
+            "start": 1737611317808,
+            "stop": 1737611317808,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Клик по 1 цитате в списке",
+            "start": 1737611318153,
+            "stop": 1737611318153,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        }
+    ],
+    "attachments": [
+    ],
+    "parameters": [
+    ],
+    "uuid": "7c664d55-0fb0-4076-8e74-e96c6227e692",
+    "historyId": "630b60bd78ae1f1fb3f4e200016db1f5",
+    "fullName": "ru.iteco.fmhandroid.ui.tests.ui.OurMissionPageTest.shouldCheckFirstQuoteElementsIsDisplayed",
+    "labels": [
+        {
+            "name": "package",
+            "value": "ru.iteco.fmhandroid.ui.tests.ui"
+        },
+        {
+            "name": "testClass",
+            "value": "ru.iteco.fmhandroid.ui.tests.ui.OurMissionPageTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "shouldCheckFirstQuoteElementsIsDisplayed"
+        },
+        {
+            "name": "suite",
+            "value": "ru.iteco.fmhandroid.ui.tests.ui.OurMissionPageTest"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: io.qameta.allure.android.runners.AllureAndroidJUnitRunner(105)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        },
+        {
+            "name": "epic",
+            "value": "Тестирование UI"
+        },
+        {
+            "name": "feature",
+            "value": "Страница \"Тематические цитаты\""
+        },
+        {
+            "name": "story",
+            "value": "Отображение элементов цитаты"
+        }
+    ]
+}

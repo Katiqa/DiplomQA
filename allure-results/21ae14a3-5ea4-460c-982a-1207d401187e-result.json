@@ -1,0 +1,65 @@
+{
+    "name": "shouldCheckSplashScreenProgressIndicatorIsDisplayed",
+    "start": 1737611355574,
+    "stop": 1737611356293,
+    "stage": "finished",
+    "description": "Тест проверяет отображение индикатора загрузки",
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+    ],
+    "attachments": [
+    ],
+    "parameters": [
+    ],
+    "uuid": "21ae14a3-5ea4-460c-982a-1207d401187e",
+    "historyId": "3949f354f73528c510710a183b4e7911",
+    "fullName": "ru.iteco.fmhandroid.ui.tests.ui.SplashScreenTest.shouldCheckSplashScreenProgressIndicatorIsDisplayed",
+    "labels": [
+        {
+            "name": "package",
+            "value": "ru.iteco.fmhandroid.ui.tests.ui"
+        },
+        {
+            "name": "testClass",
+            "value": "ru.iteco.fmhandroid.ui.tests.ui.SplashScreenTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "shouldCheckSplashScreenProgressIndicatorIsDisplayed"
+        },
+        {
+            "name": "suite",
+            "value": "ru.iteco.fmhandroid.ui.tests.ui.SplashScreenTest"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: io.qameta.allure.android.runners.AllureAndroidJUnitRunner(105)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        },
+        {
+            "name": "epic",
+            "value": "Тестирование UI"
+        },
+        {
+            "name": "feature",
+            "value": "Экран загрузки Splash Screen"
+        },
+        {
+            "name": "story",
+            "value": "Индикатор загрузки"
+        }
+    ]
+}

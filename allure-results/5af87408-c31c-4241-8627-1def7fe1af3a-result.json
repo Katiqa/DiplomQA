@@ -1,0 +1,145 @@
+{
+    "name": "testToastMessageDisplayedWithEmptyFields",
+    "start": 1737610529574,
+    "stop": 1737610599173,
+    "stage": "finished",
+    "description": "Тест проверяет, что отображается сообщение и вход в приложение не происходит, если поля логина и пароля пустые",
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+        {
+            "name": "Выход из аккаунта:",
+            "start": 1737610529689,
+            "stop": 1737610529689,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Авторизация с пустыми полями:",
+            "start": 1737610536753,
+            "stop": 1737610536753,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Ввод \" \" в поле ввода \"Логин\"",
+            "start": 1737610536753,
+            "stop": 1737610536753,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Ввод \" \" в поле ввода \"Пароль\"",
+            "start": 1737610536792,
+            "stop": 1737610536792,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Клик по кнопке \"Войти\"",
+            "start": 1737610536803,
+            "stop": 1737610536803,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        }
+    ],
+    "attachments": [
+    ],
+    "parameters": [
+    ],
+    "uuid": "5af87408-c31c-4241-8627-1def7fe1af3a",
+    "historyId": "79d6e9a464fc4d63732eaaf77b3b2c06",
+    "fullName": "ru.iteco.fmhandroid.ui.tests.functional.AuthorizationTest.testToastMessageDisplayedWithEmptyFields",
+    "labels": [
+        {
+            "name": "package",
+            "value": "ru.iteco.fmhandroid.ui.tests.functional"
+        },
+        {
+            "name": "testClass",
+            "value": "ru.iteco.fmhandroid.ui.tests.functional.AuthorizationTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testToastMessageDisplayedWithEmptyFields"
+        },
+        {
+            "name": "suite",
+            "value": "ru.iteco.fmhandroid.ui.tests.functional.AuthorizationTest"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: io.qameta.allure.android.runners.AllureAndroidJUnitRunner(105)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        },
+        {
+            "name": "epic",
+            "value": "Функциональное тестирование"
+        },
+        {
+            "name": "feature",
+            "value": "Авторизация"
+        },
+        {
+            "name": "story",
+            "value": "Невалидная авторизация"
+        }
+    ]
+}

@@ -1,0 +1,81 @@
+{
+    "name": "shouldCheckAppBarOnAuthIsDisplayed",
+    "start": 1737610924720,
+    "stop": 1737610932456,
+    "stage": "finished",
+    "description": "Тест проверяет отображение AppBar панели на странице авторизации",
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+        {
+            "name": "Выход из аккаунта:",
+            "start": 1737610924809,
+            "stop": 1737610924809,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        }
+    ],
+    "attachments": [
+    ],
+    "parameters": [
+    ],
+    "uuid": "4a3df605-4c7b-4e52-ac21-11f652457853",
+    "historyId": "8244fe95cdf8ad6d6397f7a0795741d5",
+    "fullName": "ru.iteco.fmhandroid.ui.tests.ui.AuthorizationPageTest.shouldCheckAppBarOnAuthIsDisplayed",
+    "labels": [
+        {
+            "name": "package",
+            "value": "ru.iteco.fmhandroid.ui.tests.ui"
+        },
+        {
+            "name": "testClass",
+            "value": "ru.iteco.fmhandroid.ui.tests.ui.AuthorizationPageTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "shouldCheckAppBarOnAuthIsDisplayed"
+        },
+        {
+            "name": "suite",
+            "value": "ru.iteco.fmhandroid.ui.tests.ui.AuthorizationPageTest"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: io.qameta.allure.android.runners.AllureAndroidJUnitRunner(105)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        },
+        {
+            "name": "epic",
+            "value": "Тестирование UI"
+        },
+        {
+            "name": "feature",
+            "value": "Панель AppBar"
+        },
+        {
+            "name": "story",
+            "value": "AppBar на странице авторизации"
+        }
+    ]
+}

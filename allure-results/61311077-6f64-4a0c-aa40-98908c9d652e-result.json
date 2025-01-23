@@ -1,0 +1,81 @@
+{
+    "name": "shouldCheckPasswordFieldIsDisplayed",
+    "start": 1737610917492,
+    "stop": 1737610924709,
+    "stage": "finished",
+    "description": "Тест проверяет отображение поля ввода пароля",
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+        {
+            "name": "Выход из аккаунта:",
+            "start": 1737610917588,
+            "stop": 1737610917589,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        }
+    ],
+    "attachments": [
+    ],
+    "parameters": [
+    ],
+    "uuid": "61311077-6f64-4a0c-aa40-98908c9d652e",
+    "historyId": "8cfa166b84b98b14710e3da96dfe7428",
+    "fullName": "ru.iteco.fmhandroid.ui.tests.ui.AuthorizationPageTest.shouldCheckPasswordFieldIsDisplayed",
+    "labels": [
+        {
+            "name": "package",
+            "value": "ru.iteco.fmhandroid.ui.tests.ui"
+        },
+        {
+            "name": "testClass",
+            "value": "ru.iteco.fmhandroid.ui.tests.ui.AuthorizationPageTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "shouldCheckPasswordFieldIsDisplayed"
+        },
+        {
+            "name": "suite",
+            "value": "ru.iteco.fmhandroid.ui.tests.ui.AuthorizationPageTest"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: io.qameta.allure.android.runners.AllureAndroidJUnitRunner(105)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        },
+        {
+            "name": "epic",
+            "value": "Тестирование UI"
+        },
+        {
+            "name": "feature",
+            "value": "Страница Авторизации"
+        },
+        {
+            "name": "story",
+            "value": "Поле ввода \"Пароль\""
+        }
+    ]
+}
